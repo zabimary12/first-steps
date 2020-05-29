@@ -1,0 +1,6 @@
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\obj\Debug\ModelView.csprojAssemblyReference.cache
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\obj\Debug\ModelView.csproj.CoreCompileInputs.cache
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\bin\Debug\ModelView.dll
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\bin\Debug\ModelView.pdb
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\obj\Debug\ModelView.dll
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\obj\Debug\ModelView.pdb

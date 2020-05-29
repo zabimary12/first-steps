@@ -1,0 +1,9 @@
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\bin\Debug\ViewModel.dll
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\bin\Debug\ViewModel.pdb
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\bin\Debug\Model.dll
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\bin\Debug\Model.pdb
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\obj\Debug\ViewModel.dll
+C:\Users\zabim\labs\Proga_OOP\PZ1_Mahno\ClassLibrary1\obj\Debug\ViewModel.pdb

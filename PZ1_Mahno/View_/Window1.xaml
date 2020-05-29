@@ -1,0 +1,35 @@
+﻿<Window x:Class="PZ1_Mahno_.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PZ1_Mahno_"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Button Name="Calculator" Content="Посчитать" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Right" ToolTip="Это калькулятор" />
+        <Button Name="Add_Owner" Content="Добавить жителя" Height="50" Width="100" VerticalAlignment="Top" HorizontalAlignment="Right" ToolTip="Добавляем жителя который купил квартиру" Margin="0,0,125.6,0" Click="Add_Owner_Click" Command="{Binding Path=Open_Window_Add}"/>
+        <ListView Name="ListOwner" Width="460" HorizontalAlignment="Left" ItemsSource="{Binding Items}" Margin="0,157,0,0">
+
+            <ListView.View>
+
+                <GridView x:Name="greadText">
+                    <GridViewColumn Header="ФИО" DisplayMemberBinding="{Binding owner_name}"/>
+                    <GridViewColumn Header="Номер" DisplayMemberBinding="{Binding owner_phone}"/>
+                    <GridViewColumn Header="Дата покупки" DisplayMemberBinding="{Binding owner_date_buy}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Цена комунальных услуг за м²" HorizontalAlignment="Left" Margin="33,10,0,0" VerticalAlignment="Top" Width="151"/>
+        <TextBox Name="TextBox_Cena" HorizontalAlignment="Left" Height="24" Margin="33,41,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="46"/>
+        <Label Content="грн" HorizontalAlignment="Left" Margin="84,37,0,0" VerticalAlignment="Top"/>
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>
